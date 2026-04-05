@@ -1,0 +1,72 @@
+[
+  {
+    "name": "内容头脑风暴 / 文案初稿",
+    "scores": {
+      "business_value": 8,
+      "replaceability": 9,
+      "risk_cost": 9,
+      "running_cost": 7,
+      "measurability": 6
+    }
+  },
+  {
+    "name": "FAQ 自动分类",
+    "scores": {
+      "business_value": 7,
+      "replaceability": 5,
+      "risk_cost": 8,
+      "running_cost": 7,
+      "measurability": 8
+    }
+  },
+  {
+    "name": "工单摘要生成",
+    "scores": {
+      "business_value": 7,
+      "replaceability": 7,
+      "risk_cost": 7,
+      "running_cost": 6,
+      "measurability": 7
+    }
+  },
+  {
+    "name": "合规审批自动判定",
+    "scores": {
+      "business_value": 6,
+      "replaceability": 2,
+      "risk_cost": 2,
+      "running_cost": 4,
+      "measurability": 5
+    }
+  },
+  {
+    "name": "税务金额计算",
+    "scores": {
+      "business_value": 3,
+      "replaceability": 1,
+      "risk_cost": 1,
+      "running_cost": 3,
+      "measurability": 9
+    }
+  },
+  {
+    "name": "医疗问诊建议",
+    "scores": {
+      "business_value": 8,
+      "replaceability": 8,
+      "risk_cost": 1,
+      "running_cost": 5,
+      "measurability": 4
+    }
+  },
+  {
+    "name": "会议纪要自动生成",
+    "scores": {
+      "business_value": 8,
+      "replaceability": 8,
+      "risk_cost": 8,
+      "running_cost": 6,
+      "measurability": 7
+    }
+  }
+]
